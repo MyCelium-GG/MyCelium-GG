@@ -2,7 +2,7 @@
 
 Tiny Minecraft mods with big charm, all growing on one shared core.
 
-![Minecraft](https://img.shields.io/badge/Minecraft-26.3-d32f2f)
+![Minecraft](https://img.shields.io/badge/Minecraft-26.1--26.3-d32f2f)
 ![Java](https://img.shields.io/badge/Java-25-d32f2f)
 ![Loaders](https://img.shields.io/badge/Loaders-Fabric_%7C_Forge_%7C_NeoForge-d32f2f)
 ![License](https://img.shields.io/badge/License-MIT-b71c1c)
@@ -23,7 +23,8 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [Better Pets](https://github.com/MyCelium-GG/Better-Pets) | List every pet with its location (even in unloaded chunks), find it with a glow and compass, call it, rename it, give it away, and walk it on a lead that never snaps. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-pets) |
 | [Better Server List](https://github.com/MyCelium-GG/Better-Server-List) | The multiplayer screen, organized: several lists, folding categories, pinned favorites, search and drag and drop. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-server-list) |
 | [More Beacon Colors](https://github.com/MyCelium-GG/More-Beacon-Colors) | Any color for your beacon beam: dye colors, gradients through up to 16 colors, rainbows, color cycles and pulses. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-beacon-colors) |
-| [Colored Nether Portals](https://github.com/MyCelium-GG/Colored-Nether-Portals) | Any color for your Nether portals: dyes, smooth gradients, rainbows, color cycles and pulses, with matching particles. | Both | [Docs](https://wiki.mycelium-gg.org/colorednetherportals/) |
+| [Colored Nether Portals](https://github.com/MyCelium-GG/Colored-Nether-Portals) | Any color for your Nether portals: dyes, smooth gradients, rainbows, color cycles and pulses, with matching particles. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colored-nether-portals) |
+| [Essentials GG](https://github.com/MyCelium-GG/Essentials-GG) | Server essentials without the bloat: homes, warps, TPA, random teleport, kits, economy, moderation and its own permissions, with hex colors and menus. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/essentials-gg) |
 
 ## The core: Mycel
 
