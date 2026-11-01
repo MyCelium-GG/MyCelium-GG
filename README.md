@@ -25,6 +25,7 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [More Beacon Colors](https://github.com/MyCelium-GG/More-Beacon-Colors) | Any color for your beacon beam: dye colors, gradients through up to 16 colors, rainbows, color cycles and pulses. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-beacon-colors) |
 | [Colored Nether Portals](https://github.com/MyCelium-GG/Colored-Nether-Portals) | Any color for your Nether portals: dyes, smooth gradients, rainbows, color cycles and pulses, with matching particles. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colored-nether-portals) |
 | [Essentials GG](https://github.com/MyCelium-GG/Essentials-GG) | Server essentials without the bloat: homes, warps, TPA, random teleport, kits, economy, moderation and its own permissions, with hex colors and menus. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/essentials-gg) |
+| [Dark Mode](https://github.com/MyCelium-GG/Dark-Mode) | Every screen dark, including the Mojang loading screen and screens from other mods, with themes and a brightness slider. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-mode) |
 
 ## The core: Mycel
 
