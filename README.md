@@ -1,4 +1,4 @@
-# 🍄 MyCelium
+# MyCelium
 
 Tiny Minecraft mods with big charm, all growing on one shared core.
 
@@ -7,7 +7,7 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 ![Loaders](https://img.shields.io/badge/Loaders-Fabric_%7C_Forge_%7C_NeoForge-d32f2f)
 ![License](https://img.shields.io/badge/License-MIT-b71c1c)
 
-🌐 **Home:** [mycelium-gg.org](https://mycelium-gg.org) · 📖 **Wiki:** [wiki.mycelium-gg.org](https://wiki.mycelium-gg.org) · 🧩 **API docs:** [api.mycelium-gg.org](https://api.mycelium-gg.org) · 💬 **Discord:** [join](https://discord.gg/8qgVgy526)
+**Home:** [mycelium-gg.org](https://mycelium-gg.org) · **Wiki:** [wiki.mycelium-gg.org](https://wiki.mycelium-gg.org) · **API docs:** [api.mycelium-gg.org](https://api.mycelium-gg.org) · **Discord:** [join](https://discord.gg/UvQNsKWMp3)
 
 ## What we grow
 
@@ -25,12 +25,14 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [More Beacon Colors](https://github.com/MyCelium-GG/More-Beacon-Colors) | Any color for your beacon beam: dye colors, gradients through up to 16 colors, rainbows, color cycles and pulses. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-beacon-colors) |
 | [Colored Nether Portals](https://github.com/MyCelium-GG/Colored-Nether-Portals) | Any color for your Nether portals: dyes, smooth gradients, rainbows, color cycles and pulses, with matching particles. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colored-nether-portals) |
 | [Essentials GG](https://github.com/MyCelium-GG/Essentials-GG) | Server essentials without the bloat: homes, warps, TPA, random teleport, kits, economy, moderation and its own permissions, with hex colors and menus. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/essentials-gg) |
+| [Better Armorstands](https://github.com/MyCelium-GG/Better-Armorstands) | The 13 Bedrock armor stand poses (sneak + right-click or redstone), arms on every new stand, hold R to turn a stand and shears for the base plate. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-armorstands) |
 | [Dark Mode](https://github.com/MyCelium-GG/Dark-Mode) | Every screen dark, including the Mojang loading screen and screens from other mods, with themes and a brightness slider. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-mode) |
 
 ## The core: Mycel
 
 [Mycel](https://github.com/MyCelium-GG/MyCel-Lib) is the shared library behind every mod: configs with an in-game
-screen and `/mycel` commands, events, networking, scheduling, safe data files, an update checker and support dumps.
+screen and `/mycel` commands, events, networking, scheduling, safe data files, an update checker, support dumps,
+one shared chat look (`Mycel » message`) and optional anonymous stats through FastStats for every mod.
 One universal jar for Fabric, Forge and NeoForge, documented at [api.mycelium-gg.org](https://api.mycelium-gg.org).
 [![Release](https://jitpack.io/v/MyCelium-GG/MyCel-Lib.svg)](https://jitpack.io/#MyCelium-GG/MyCel-Lib) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mycel)
 
