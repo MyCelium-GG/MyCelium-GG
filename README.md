@@ -26,6 +26,7 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [Colored Nether Portals](https://github.com/MyCelium-GG/Colored-Nether-Portals) | Any color for your Nether portals: dyes, smooth gradients, rainbows, color cycles and pulses, with matching particles. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colored-nether-portals) |
 | [Essentials GG](https://github.com/MyCelium-GG/Essentials-GG) | Server essentials without the bloat: homes, warps, TPA, random teleport, kits, economy, moderation and its own permissions, with hex colors and menus. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/essentials-gg) |
 | [Better Armorstands](https://github.com/MyCelium-GG/Better-Armorstands) | The 13 Bedrock armor stand poses (sneak + right-click or redstone), arms on every new stand, hold R to turn a stand and shears for the base plate. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-armorstands) |
+| [Advancements](https://github.com/MyCelium-GG/Advancements) | Click any advancement to see how to get it and exactly what is still missing (every biome, food or mob), and track it above your hotbar with an animated overlay. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancement) |
 | [Dark Mode](https://github.com/MyCelium-GG/Dark-Mode) | Every screen dark, including the Mojang loading screen and screens from other mods, with themes and a brightness slider. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-mode) |
 
 ## The core: Mycel
