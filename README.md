@@ -30,7 +30,7 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [Dark Mode](https://github.com/MyCelium-GG/Dark-Mode) | Every screen dark, including the Mojang loading screen and screens from other mods, with themes, a Christmas loading screen and your own loading image. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-mode) |
 | [Bread](https://github.com/MyCelium-GG/Bread) | About 3x the FPS in busy bases: skips mobs, chests and frames behind walls and far-away detail. Plus zoom, an FPS counter and tweaks like right-click harvest and double doors. | Both (client works alone) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bread-fps) |
 | [Snowman](https://github.com/MyCelium-GG/Snowman) | Roll snowballs through the snow until they grow, stack them and decorate your own snowman with a scarf, a top hat, a carrot nose and more. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/snowman) |
-| [Guaranteed End Ships](https://github.com/MyCelium-GG/Guaranteed-End-Ships) | Every new End city comes with an End ship, so every city has its Elytra and dragon head. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guaranteed-end-ships) |
+| [Guaranteed End Ships](https://github.com/MyCelium-GG/Guaranteed-End-Ships) | Every new End city comes with an End ship, so every city has its Elytra and dragon head. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guaranteed-endships) |
 
 ## The core: Mycel
 
