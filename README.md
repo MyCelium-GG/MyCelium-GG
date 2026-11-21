@@ -32,6 +32,7 @@ Tiny Minecraft mods with big charm, all growing on one shared core.
 | [Snowman](https://github.com/MyCelium-GG/Snowman) | Roll snowballs through the snow until they grow, stack them and decorate your own snowman with a scarf, a top hat, a carrot nose and more. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/snowman) |
 | [Guaranteed End Ships](https://github.com/MyCelium-GG/Guaranteed-End-Ships) | Every new End city comes with an End ship, so every city has its Elytra and dragon head. | Server | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guaranteed-endships) |
 | [F3 Keybinds](https://github.com/MyCelium-GG/F3-Keybinds) | Every F3 shortcut on a key of its own: chunk borders, hitboxes, advanced tooltips, the game mode switcher and more, without holding F3. Made for laptops. | Client | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/f3-keybinds) |
+| [Christmas Presents](https://github.com/MyCelium-GG/Christmas-Presents) | Wrap gifts in presents you design yourself (paper, pattern, ribbon, shape, bow), write who they are for, and watch them get unwrapped by hand. | Both | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/myceliumggs-christmas-presents) |
 
 ## The core: Mycel
 
